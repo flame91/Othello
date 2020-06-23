@@ -1,4 +1,4 @@
-###Project Othello
+### Project Othello
 
 >images : 이미지들을 모아놓은 폴더입니다.
 
